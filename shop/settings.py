@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-+sw#n#0zuneuzsx@shhdzui1sh^0h+ewozvo03f@$rko0*eiab'
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost','https://baya-shop-heroku.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','baya-shop-heroku.herokuapp.com']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
